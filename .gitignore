@@ -1,0 +1,15 @@
+# comment - this is ignored file list
+
+/**/target
+/**/.settings
+/**/bin
+/**/.classpath
+/.classpath
+/**/.project
+/**/*.iml
+/**/.idea/
+/**/.DS_Store
+/quotation-service/src/main/resources/application.properties
+/**/pom.xml.versionsBackup
+/test-output
+opt-quotation-order-service/src/main/resources/application.properties
